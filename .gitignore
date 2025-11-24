@@ -1,3 +1,7 @@
 bitcoin_data/
 __pycache__
 merge_parquet.py
+processed_data/
+processing.log
+training_data/
+training_prep.log
